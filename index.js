@@ -207,7 +207,7 @@ Kliknij przycisk poniżej, aby wziąć udział.`,
       if (choice === "opcja_1") {
         return interaction.reply({
           content:
-            "𝟷ᴋ <:emoji_1:1500036544461803540> = 𝟸𝟾ᴢł <:emoji_4:1500038782076846232>",
+            "𝟷ᴋ <:emoji_1:1500036544461803540> = 19ᴢł <:emoji_4:1500038782076846232>",
           ephemeral: true,
         });
       }
@@ -215,7 +215,7 @@ Kliknij przycisk poniżej, aby wziąć udział.`,
       if (choice === "opcja_2") {
         return interaction.reply({
           content:
-            "𝟷ᴋ <:emoji_1:1500036544461803540> = 𝟸𝟼ᴢł <:emoji_3:1500037911356379237>",
+            "𝟷ᴋ <:emoji_1:1500036544461803540> = 18ᴢł <:emoji_3:1500037911356379237>",
           ephemeral: true,
         });
       }
@@ -223,7 +223,7 @@ Kliknij przycisk poniżej, aby wziąć udział.`,
       if (choice === "opcja_3") {
         return interaction.reply({
           content:
-            "𝟷ᴋ <:emoji_1:1500036544461803540> = 𝟸𝟽ᴢł <:emoji_5:1500038810719883346>",
+            "𝟷ᴋ <:emoji_1:1500036544461803540> = 18ᴢł <:emoji_5:1500038810719883346>",
           ephemeral: true,
         });
       }
@@ -231,7 +231,7 @@ Kliknij przycisk poniżej, aby wziąć udział.`,
       if (choice === "opcja_4") {
         return interaction.reply({
           content:
-            "𝟷ᴋ <:emoji_1:1500036544461803540> = 𝟸𝟽ᴢł <:emoji_2:1500037881564233758>",
+            "𝟷ᴋ <:emoji_1:1500036544461803540> = 18ᴢł <:emoji_2:1500037881564233758>",
           ephemeral: true,
         });
       }
